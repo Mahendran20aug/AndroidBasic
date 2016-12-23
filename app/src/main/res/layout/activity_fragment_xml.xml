@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_fragment_xml"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0d28ed"
+    tools:context="com.example.mahendran.test.FragmentXML">
+
+    <fragment
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:name="com.example.mahendran.test.FargmentXMLTest"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/fragment" />
+</RelativeLayout>

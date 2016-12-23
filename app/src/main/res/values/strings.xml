@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string-array name="titles">
+        <item>Number 1</item>
+        <item>Number 2</item>
+        <item>Number 3</item>
+        <item>Number 4</item>
+        <item>Number 5</item>
+        <item>Number 6</item>
+        <item>Number 7</item>
+        <item>Number 8</item>
+        <item>Number 9</item>
+        <item>Number 10</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>this is number descriptions 1</item>
+        <item>this is number descriptions 2</item>
+        <item>this is number descriptions 3</item>
+        <item>this is number descriptions 4</item>
+        <item>this is number descriptions 5</item>
+        <item>this is number descriptions 6</item>
+        <item>this is number descriptions 7</item>
+        <item>this is number descriptions 8</item>
+        <item>this is number descriptions 9</item>
+        <item>this is number descriptions 10</item>
+    </string-array>
+</resources>
